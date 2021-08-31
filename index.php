@@ -9,6 +9,9 @@
             <li>
                 nama saya
             </li>
+            <li>
+                adding 1 list
+            </li>
         </ul>
     </body>
 </html>
